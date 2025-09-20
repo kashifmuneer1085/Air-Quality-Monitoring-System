@@ -2,9 +2,9 @@
 
 ## Contributors
 
-- Mehmood Ul Haq
-- Muhammad Shahzaib
 - Kashif Muneer
+- Mehmood Ul Haq
+- Shahzaib
 - Talal Muzammil
 
 ## Overview
@@ -56,7 +56,7 @@ This project includes a heat detection system utilizing the DHT11 sensor for tem
 - Implement proactive measures based on observed parameters.
 
 
-For issues or feedback, please contact me at mehmodulhaq1040@gmail.com...
+For issues or feedback, please contact me at kashifmuneer1085@gmail.com...
 
 
 
